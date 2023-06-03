@@ -118,7 +118,7 @@ header .portfolio-row.header-wrap {
 .slider-content {
     align-items: center !important;
     display: flex;
-    flex-direction: wrap;
+    flex-wrap: wrap;
 }
 
 .slider-general {
